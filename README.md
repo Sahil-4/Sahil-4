@@ -1,133 +1,138 @@
 # 👋 Hi, I'm Sahil
 
-🚀 **MERN Stack Developer** | Passionate about building **scalable web apps** & mentoring developers.
-I specialize in **React, Node.js, Express, and Next.js**, with hands-on experience in **real-time apps, authentication systems, and cloud deployments**.
+🚀 **Backend / Full-Stack Software Engineer** focused on building **real-time systems**, **scalable APIs**, and **production-ready backend services**.
 
-💡 I love solving problems, optimizing systems, and creating impactful digital solutions.
+I work primarily with **Node.js, TypeScript, NestJS, Python, and FastAPI**, and have hands-on experience with **Redis**, **WebSockets**, **web scraping systems**, and **distributed backend components**.
+
+I enjoy designing systems that handle **real-time data**, **performance constraints**, and **failure scenarios** gracefully.  
+Currently working as a **Software Developer Consultant**, building backend services and scalable scraping pipelines for real-world production use cases.
+
+I value **clarity, maintainability, and system thinking** over quick hacks and continuously deepen my understanding of backend internals and architecture.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend**
-
+### Languages
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
 </p>
 
-**Backend**
-
+### Backend & APIs
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" alt="Socket.IO" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/>
 </p>
 
-**Databases**
-
+### Databases & Caching
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40"/>
 </p>
 
-**Tools & Cloud**
-
+### Web Scraping & Automation
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Cloudinary_logo.svg" alt="Cloudinary" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/render.svg" alt="Render" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" alt="Netlify" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+</p>
+
+### Tools & Infrastructure
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/render.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="40"/>
 </p>
 
 ---
 
 ## 📌 Featured Projects
 
-### 📚 Book Lend (Book Lending App)
+### 📚 Book Lend — Real-Time Book Lending Platform
+- Built **REST APIs** and **real-time communication** using Socket.IO.
+- Implemented **Redis caching**, reducing average query latency by ~40%.
+- Designed a **modular backend architecture** for scalability and real-time events.
+- Implemented secure authentication and session management.
 
-- Built **REST APIs** & integrated **real-time communication** with Socket.IO.
-- Secured login with **JWT-based authentication** & session management.
-- Optimized queries using **Redis caching** → reduced latency by ~40%.
-
+**Tech:** TypeScript, Node.js, Redis, Socket.IO, Docker  
 🔗 [Source Code](https://github.com/Sahil-4/book-lend) • [Live Demo](https://book-lend-frontend-topaz.vercel.app/)
 
 ---
 
-### 🔗 URL Shortener App
+### 🔗 URL Shortener — Analytics-Driven Backend System
+- Developed a **custom Base-62 algorithm**, generating **10k+ unique URLs** in testing.
+- Built backend APIs with **analytics tracking** and optimized redirection performance.
+- Added **email verification & spam protection**, reducing fake signups by ~70%.
+- Built a management dashboard for URL tracking and usage analytics.
 
-- Designed a **custom Base-62 algorithm** → generated **10k+ unique short URLs** in testing.
-- Added **email verification** & spam protection → reduced fake signups by 70%.
-- Built a **React dashboard** for URL management & analytics.
-
+**Tech:** Node.js, Express.js, React, Redux, MongoDB  
 🔗 [Source Code](https://github.com/Sahil-4/url-shortener) • [Live Demo](https://a-short.netlify.app/)
 
 ---
 
-## 💼 Work Experience
+## 💼 Experience
 
-**Full Stack Web Developer Intern** @ Site Gutu Pvt Ltd _(Apr 2025 – Jun 2025)_
+### Software Developer Consultant — Pantabyte LLP  
+**Oct 2025 – Present**
+- Designing and maintaining backend services using **FastAPI** and **NestJS**.
+- Building **scalable web scraping pipelines** using Scrapy and Selenium.
+- Working on **real-time and distributed backend components**.
+- Implementing authentication, validation, and backend optimizations for production systems.
 
-- Developed a **ride-hailing web app** with booking, driver tracking, & payments.
-- Achieved **90%+ Lighthouse score** with responsive UI.
-- Implemented **real-time ride tracking** with <2s latency.
+---
 
-**Doubt Support Mentor Intern** @ NullClass EdTech _(Jan 2023 – Apr 2024)_
+### Full-Stack Developer Intern — SiteGuru Pvt Ltd  
+**Apr 2025 – Jun 2025**
+- Built a **ride-hailing web application** from scratch.
+- Implemented **real-time ride tracking** using Socket.IO.
+- Designed backend APIs and database schema for scalable usage.
+- Delivered a responsive UI with **90%+ Lighthouse performance scores**.
 
-- Mentored **50+ students** in MERN stack, resolving **200+ coding queries**.
-- Guided projects like **YouTube, Twitter, and Stack Overflow clones**.
-- Built **reusable teaching resources** → reduced repeat doubts by ~30%.
+---
+
+### Doubt Support Mentor Intern — NullClass EdTech  
+**Jan 2023 – Apr 2024**
+- Mentored **50+ students** in MERN stack development.
+- Resolved **200+ coding queries** and guided multiple project deployments.
+- Created reusable learning resources, reducing repeated doubts by ~30%.
 
 ---
 
 ## 🎓 Education
-
-**Bachelors of Computer Application (BCA)**
-Indira Gandhi National Open University (IGNOU)
+**Bachelor of Computer Applications (BCA)**  
+Indira Gandhi National Open University (IGNOU)  
 📅 Jan 2023 – Dec 2025 (Expected)
 
 ---
 
 ## 🏆 Achievements
-
-- **TCS CodeVita Season 12** → Global Rank **3317**
-- Active problem solver on [LeetCode](https://leetcode.com/alphax8086) & [GeeksforGeeks](https://auth.geeksforgeeks.org/user/alphax8086)
+- **TCS CodeVita Season 12** — Global Rank **3317**
+- Active problem solver on **LeetCode** & **GeeksforGeeks**
 
 ---
 
-## 🌐 Let's Connect
-
-📌 [Portfolio](https://alphax8086.vercel.app/)
-💻 [GitHub](https://github.com/Sahil-4)
-💼 [LinkedIn](https://www.linkedin.com/in/sahil4/)
-📧 [Email](mailto:www.sahil.875020@gmail.com)
-🧑‍💻 [LeetCode](https://leetcode.com/alphax8086)
+## 🌐 Connect With Me
+📌 [Portfolio](https://alphax8086.vercel.app/)  
+💼 [LinkedIn](https://www.linkedin.com/in/sahil4/)  
+📧 [Email](mailto:www.sahil.875020@gmail.com)  
+🧑‍💻 [LeetCode](https://leetcode.com/alphax8086)  
 📝 [GeeksforGeeks](https://geeksforgeeks.org/user/alphax8086)
 
 ---
 
-✨ _"Code. Debug. Optimize. Repeat."_ ✨
-
----
-
-<div>
-  <p align="center">
-    <img src="https://leetcard.jacoblin.cool/alphax8086?theme=dark&font=Mukta%20Mahee&ext=contest" alt="LeetCode Stats" width="480"/>
-  </p>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Sahil-4&show_icons=true&theme=transparent" alt="GitHub Stats" height="280"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-4&layout=compact&theme=transparent" alt="Top Langs" height="280"/>
-  </p>
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/alphax8086?theme=dark&ext=contest" width="480"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sahil-4&show_icons=true&theme=transparent" height="280"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-4&layout=compact&theme=transparent" height="280"/>
 </div>
-
----
